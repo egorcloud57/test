@@ -9,6 +9,7 @@
     <style>
     h1{
     text-align: center;
+    color: blue;
 }
 #conteiner{
 width: 800px;
